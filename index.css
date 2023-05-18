@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(4, 19, 26);
+    color: rgb(167, 243, 253);
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+p,
+div {
+    margin-left: 45%;
+    margin-top: 10%;
+}
